@@ -1,5 +1,6 @@
 # System-Design
-Various fundamental topics and concepts relating to scalable system design
+Various fundamental topics and concepts relating to scalable system design.
+
 Introduction : Slides: [SystemDesignFundamentals.pdf](https://github.com/ArjunKrishnak/System-Design/blob/master/SystemDesignFundamentals.pdf)  Video : https://youtu.be/eZLSfrKZ9Y4
 
 # Database Layer
