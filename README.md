@@ -6,4 +6,4 @@ Introduction : Slides: [SystemDesignFundamentals.pdf](https://github.com/ArjunKr
 # Database Layer
 - CAP theorem : Video : https://youtu.be/NvaNiAF9AN8
 - SQL vs NOSQL : Slides: [SQLvsNOSQL.pdf](https://github.com/ArjunKrishnak/System-Design/blob/master/SQLvsNOSQL.pdfhttps://github.com/ArjunKrishnak/System-Design/blob/master/SQLvsNOSQL.pdf) Video : https://youtu.be/rxCOP-8DWMI
-- Sharding : Slides: Video: 
+- Sharding : Slides: [Sharding](https://github.com/ArjunKrishnak/System-Design/blob/master/Sharding.pdf) Video: 
