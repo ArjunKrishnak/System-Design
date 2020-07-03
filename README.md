@@ -15,4 +15,4 @@ Introduction : Slides: [SystemDesignFundamentals.pdf](https://github.com/ArjunKr
 - Caching : Slides:  [Caching](https://github.com/ArjunKrishnak/System-Design/blob/master/Caching.pdf) Video:  https://youtu.be/kf2b5jPFWVo
 
 # Network Layer
-- Caching : Slides:  [Network layer](https://github.com/ArjunKrishnak/System-Design/blob/master/NetworkLayer.pdf) Video:  https://youtu.be/Lf_TVxOxgW8
+- Network layer : Slides:  [Network layer](https://github.com/ArjunKrishnak/System-Design/blob/master/NetworkLayer.pdf) Video:  https://youtu.be/Lf_TVxOxgW8
